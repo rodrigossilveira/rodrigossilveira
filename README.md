@@ -1,4 +1,6 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Rodrigo 
+
+Graduate Mechanical Engineer doing my MsC and exploring some data science and some robotics. Kinda new around here, hope to have more to show soon.
 
 <!--
 **rodrigossilveira/rodrigossilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
