@@ -1,4 +1,4 @@
-###Hi, my name is Rodrigo. Welcome.
+### Hi, my name is Rodrigo. Welcome.
 
 I'm a Data scientist gaduated in Mechanical Engineering finishing my MsC.
 Still creating the habit to commit my projects here.
