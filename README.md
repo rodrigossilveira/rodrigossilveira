@@ -3,7 +3,7 @@
 I'm a Data scientist gaduated in Mechanical Engineering finishing my MsC.
 Still creating the habit to commit my projects here.
 
-Currently learning python GUI, hopping to get to AWS cloud soon to make my data apps. 
+Currently working with Business Intelligence in the Utility and Energy sector. 
 
 <!--
 **rodrigossilveira/rodrigossilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
