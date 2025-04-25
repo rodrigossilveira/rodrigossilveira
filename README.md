@@ -15,5 +15,3 @@ Rodrigo = {
  
 }
 ```
-
-🔧 I wrangle data and build some pipelines with python, build some slick tools with streamlit and wrap everything to present in Power BI.
